@@ -1,2 +1,5 @@
-# kweel-bot-amino
-codigo completo del bot de kweel
+# curly-spork
+# curly-spork
+# curly-spork
+# curly-spork
+# curly-spork

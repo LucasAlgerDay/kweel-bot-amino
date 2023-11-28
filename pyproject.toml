@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "repl_nix_curly-spork-1"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+websocket = "^0.2.1"
+numpy = "^1.24.3"
+Flask = "^2.3.2"
+gTTS = "^2.3.2"
+pyjokes = "^0.6.0"
+Google-Images-Search = "^1.4.6"
+heroku3 = "^5.2.1"
+pymongo = "^4.3.3"
+bs4 = "^0.0.1"
+Pillow = "^9.5.0"
+requests = "^2.30.0"
+requests-random-user-agent = "^2023.2.15"
+wget = "^3.2"
+fancy-text = "^2.1"
+JSON_minify = "^0.3.0"
+pytz = "^2023.3"
+names = "^0.3.0"
+googletrans = "^3.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
